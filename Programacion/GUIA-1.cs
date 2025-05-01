@@ -4,7 +4,7 @@ using System.Runtime.Intrinsics.Arm;
 variables num1, num2 y num3 y colocarles los valores 5, 3 y 7. Sin embargo, no sabe de qué tipos
 de datos deberían ser sus tres variables ni tampoco como asignar dichos valores. Realizar un
 algoritmo que declare las variables, les asigne los valores que se necesitan y mostrar por pantalla.
-*/
+
 int num1, num2, num3;
 
 num1 = 5;
@@ -13,9 +13,6 @@ num3 = 7;
 
 Console.WriteLine($"Los numeros son los siguientes: {num1}, {num2} y {num3}");
 
-
-
-/*
 
 b) Escribir un algoritmo que permita ingresar por teclado dos números e imprima su suma.
 
